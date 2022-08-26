@@ -1,0 +1,17 @@
+.button {
+  width: 100%;
+  border: none;
+  border-radius: .2rem;
+  background: #2B48FE;
+  color: #fff;
+  padding: .5rem 1.5rem;
+  font-size: 1rem;
+  cursor: pointer;
+}
+
+.button a {
+  display: block;
+  width: 100%;
+  height: 100%;
+  color: #fff;
+}

@@ -1,0 +1,16 @@
+label {
+  display: block;
+  margin: 1rem 0;
+}
+
+.input {
+  width: 100%;
+  height: 38px;
+  border: solid 1px #ddd;
+  border-radius: .4rem;
+  background: transparent;
+  font-size: 1.2rem;
+  margin-right: 1.2rem 0;
+  padding: .5rem;
+  outline: none;
+}
